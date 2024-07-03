@@ -1,0 +1,7 @@
+[submodule "hello_cargo"]
+    path = hello_cargo
+    url = https://github.com/PhuyalGaurav/hello_cargo_rust
+
+[submodule "guessing_game"]
+    path = guessing_game
+    url = https://github.com/PhuyalGaurav/guessing_game_rust
