@@ -1,0 +1,12 @@
+# Compiled files
+/target/
+
+# Build artifacts
+*.rs.bk
+
+# Editor/IDE specific files
+.idea/
+.vscode/
+
+# Generated documentation
+/target/doc/
