@@ -5,3 +5,6 @@
 [submodule "guessing_game"]
     path = guessing_game
     url = https://github.com/PhuyalGaurav/guessing_game_rust
+[submodule "common-functions-rust"]
+	path = common-functions-rust
+	url = https://github.com/PhuyalGaurav/common-functions-rust.git
