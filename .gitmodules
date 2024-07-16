@@ -8,3 +8,6 @@
 [submodule "common-functions-rust"]
 	path = common-functions-rust
 	url = https://github.com/PhuyalGaurav/common-functions-rust.git
+[submodule "understanding-ownership"]
+	path = understanding-ownership
+	url = https://github.com/PhuyalGaurav/understanding-ownership.git
