@@ -11,3 +11,6 @@
 [submodule "understanding-ownership"]
 	path = understanding-ownership
 	url = https://github.com/PhuyalGaurav/understanding-ownership.git
+[submodule "borrowing-and-slicetypes"]
+	path = borrowing-and-slicetypes
+	url = https://github.com/PhuyalGaurav/borrowing-and-slicetypes
