@@ -14,3 +14,6 @@
 [submodule "borrowing-and-slicetypes"]
 	path = borrowing-and-slicetypes
 	url = https://github.com/PhuyalGaurav/borrowing-and-slicetypes
+[submodule "rust-structs"]
+	path = rust-structs
+	url = https://github.com/PhuyalGaurav/rust-structs.git
