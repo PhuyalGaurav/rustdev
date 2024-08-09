@@ -17,3 +17,6 @@
 [submodule "rust-structs"]
 	path = rust-structs
 	url = https://github.com/PhuyalGaurav/rust-structs.git
+[submodule "enums-patterns"]
+	path = enums-patterns
+	url = https://github.com/PhuyalGaurav/enums-patterns
