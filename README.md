@@ -1,5 +1,5 @@
 # Rust Dev
-This is a repository for my rust learning. The programs in this repository are in accordance to the [book](https://doc.rust-lang.org/stable/book/).
+This is a repository for my rust learning's and projects. The programs in this repository are in accordance to the [book](https://doc.rust-lang.org/stable/book/).
 
 # How to clone
 
