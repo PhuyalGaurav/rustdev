@@ -20,3 +20,6 @@
 [submodule "enums-patterns"]
 	path = enums-patterns
 	url = https://github.com/PhuyalGaurav/enums-patterns
+[submodule "packages-crates-and-modules"]
+	path = packages-crates-and-modules
+	url = https://github.com/PhuyalGaurav/rust-packages-crates-modules
