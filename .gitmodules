@@ -23,3 +23,6 @@
 [submodule "packages-crates-and-modules"]
 	path = packages-crates-and-modules
 	url = https://github.com/PhuyalGaurav/rust-packages-crates-modules
+[submodule "common-collections"]
+	path = common-collections
+	url = https://github.com/PhuyalGaurav/rust-common-collection.git
