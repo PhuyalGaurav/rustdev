@@ -26,3 +26,6 @@
 [submodule "common-collections"]
 	path = common-collections
 	url = https://github.com/PhuyalGaurav/rust-common-collection.git
+[submodule "Error Handling"]
+	path = Error Handling
+	url = https://github.com/PhuyalGaurav/error-handling-rust
