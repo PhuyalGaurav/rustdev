@@ -29,3 +29,6 @@
 [submodule "Error Handling"]
 	path = Error Handling
 	url = https://github.com/PhuyalGaurav/error-handling-rust
+[submodule "rustlings"]
+	path = rustlings
+	url = https://github.com/PhuyalGaurav/rustlings.git
